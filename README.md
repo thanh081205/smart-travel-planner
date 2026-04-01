@@ -1,4 +1,4 @@
-# 🎌 Smart Travel Planner (Hệ thống AI Lập kế hoạch du lịch)
+# Smart Travel Planner (Hệ thống AI Lập kế hoạch du lịch)
 
 [cite_start]**Tên môn học:** Introduction to AI (Nhập môn Trí tuệ Nhân tạo) [cite: 109]
 [cite_start]**Mã môn học:** [Điền mã môn] [cite: 109]
